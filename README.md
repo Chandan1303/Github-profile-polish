@@ -2,6 +2,7 @@
  Deployment Link : https://githubprofilepolish-mf31.vercel.app/
 
 
+Demo Video  Link : https://drive.google.com/file/d/1kag-ybx4YLwGpkOfm8c1xYYrbs4Nz-UY/view?usp=drive_link
 
 
 A powerful tool to analyze GitHub profiles and provide AI-powered insights from a recruiter's perspective.
