@@ -5,20 +5,7 @@ A powerful tool to analyze GitHub profiles and provide AI-powered insights from 
 ## Project Overview
 
 This application analyzes GitHub profiles to help developers understand how recruiters view their work. It provides detailed scoring, strengths, red flags, and actionable improvements.
-
-## Technologies
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-- Supabase
-
-## Getting Started
-
+Deployment Link : https://githubprofilepolish-mf31.vercel.app/
 ### Prerequisites
 
 - Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
