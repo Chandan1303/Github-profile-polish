@@ -10,6 +10,9 @@ A powerful tool to analyze GitHub profiles and provide AI-powered insights from 
 
 This application analyzes GitHub profiles to help developers understand how recruiters view their work. It provides detailed scoring, strengths, red flags, and actionable improvements.
 
+
+Project PPT Link :   https://docs.google.com/presentation/d/1cy26vJ3uO_11sIm_sIbZimX5YKNsydyc/edit?usp=drive_link&ouid=112548847284697194646&rtpof=true&sd=true
+
 ### Prerequisites
 
 - Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
@@ -30,13 +33,7 @@ npm i
 npm run dev
 ```
 
-## Available Scripts
 
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-- `npm run test` - Run tests
-- `npm run lint` - Lint code
 
 ## Features
 
