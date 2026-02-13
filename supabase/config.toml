@@ -1,0 +1,4 @@
+project_id = "xyaiwbmpjwwrbbessbkg"
+
+[functions.analyze-github]
+verify_jwt = false
